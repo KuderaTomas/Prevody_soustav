@@ -1,2 +1,2 @@
 # Prevody_soustav
-Prevody mezi bin, dec a hex soustavami
+Převody mezi binární, decimální a hexadecimálními soustavami.
