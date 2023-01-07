@@ -1,0 +1,31 @@
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\bin\Debug\Prevody.exe.config
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\bin\Debug\Prevody.exe
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\bin\Debug\Prevody.pdb
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\obj\Debug\Prevody.csprojAssemblyReference.cache
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\obj\Debug\Prevody.Form1.resources
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\obj\Debug\Prevody.Properties.Resources.resources
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\obj\Debug\Prevody.csproj.GenerateResource.cache
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\obj\Debug\Prevody.csproj.CoreCompileInputs.cache
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\obj\Debug\Prevody.exe
+G:\Počítačové sítě\05.01.2023\Prevody\Prevody\obj\Debug\Prevody.pdb
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\bin\Debug\Prevody.exe.config
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\bin\Debug\Prevody.exe
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\bin\Debug\Prevody.pdb
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.Form1.resources
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.Properties.Resources.resources
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.csproj.GenerateResource.cache
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.exe
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.pdb
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.csproj.AssemblyReference.cache
+G:\Dokumenty\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\bin\Debug\Prevody.exe.config
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\bin\Debug\Prevody.exe
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\bin\Debug\Prevody.pdb
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.csprojAssemblyReference.cache
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.Form1.resources
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.Properties.Resources.resources
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.csproj.GenerateResource.cache
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.csproj.CoreCompileInputs.cache
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.exe
+C:\Users\Thomas The Gamer\Downloads\Prevody_soustav-main\Prevody_soustav-main\Prevody_soustav-main\Prevody\Prevody\obj\Debug\Prevody.pdb
